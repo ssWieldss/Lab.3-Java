@@ -1,0 +1,206 @@
+нояб. 11, 2021 3:12:51 PM Lab3.Controller Process
+INFO: Starting program
+нояб. 11, 2021 3:12:58 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 11, 2021 3:17:15 PM Lab3.Controller Process
+INFO: Starting program
+нояб. 11, 2021 3:17:21 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 11, 2021 3:18:23 PM Lab3.Controller Process
+INFO: Starting program
+нояб. 11, 2021 3:18:43 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 11, 2021 3:21:04 PM Lab3.Controller Process
+INFO: Starting program
+нояб. 11, 2021 3:21:08 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 11, 2021 3:21:24 PM Lab3.Controller Process
+INFO: В базу был добавлен новый элемент
+нояб. 11, 2021 3:22:17 PM Lab3.Controller Process
+INFO: Starting program
+нояб. 11, 2021 3:22:22 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 11, 2021 3:24:42 PM Lab3.Controller Process
+INFO: Starting program
+нояб. 11, 2021 3:24:46 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 11, 2021 3:25:26 PM Lab3.Controller Process
+INFO: Starting program
+нояб. 11, 2021 3:25:34 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 11, 2021 3:26:03 PM Lab3.Controller Process
+INFO: В базу был добавлен новый элемент
+нояб. 11, 2021 3:26:19 PM Lab3.Controller Process
+INFO: В базу был добавлен новый элемент
+нояб. 11, 2021 3:27:04 PM Lab3.Controller Process
+INFO: В базу был добавлен новый элемент
+нояб. 11, 2021 3:27:31 PM Lab3.Controller Process
+INFO: В базу был добавлен новый элемент
+нояб. 11, 2021 3:27:43 PM Lab3.Controller Process
+WARNING: Возникли ошибки при сохранении
+нояб. 11, 2021 3:41:51 PM Lab3.Controller Process
+INFO: Запуск программы
+нояб. 11, 2021 3:41:56 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 11, 2021 3:42:08 PM Lab3.Controller Process
+INFO: В базу был добавлен новый элемент
+нояб. 11, 2021 3:42:53 PM Lab3.Controller Process
+INFO: В базу был добавлен новый элемент
+нояб. 11, 2021 3:44:24 PM Lab3.Controller Process
+INFO: В базу был добавлен новый элемент
+нояб. 11, 2021 3:44:40 PM Lab3.Controller Process
+INFO: В базу был добавлен новый элемент
+нояб. 11, 2021 3:44:52 PM Lab3.Controller Process
+INFO: Файл успешно сохранен
+нояб. 11, 2021 4:04:43 PM Lab3.Controller Process
+INFO: Запуск программы
+нояб. 11, 2021 4:04:48 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 11, 2021 4:06:00 PM Lab3.Controller Process
+INFO: Запуск программы
+нояб. 11, 2021 4:06:05 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 11, 2021 4:06:07 PM Lab3.Controller Process
+INFO: Файл успешно загружен
+нояб. 11, 2021 4:07:18 PM Lab3.Controller Process
+INFO: Запуск программы
+нояб. 11, 2021 4:07:25 PM Lab3.Controller Process
+INFO: Запуск программы
+нояб. 11, 2021 4:07:29 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 11, 2021 4:08:29 PM Lab3.Controller Process
+INFO: Файл успешно загружен
+нояб. 11, 2021 4:08:40 PM Lab3.Controller Process
+INFO: Запуск программы
+нояб. 11, 2021 4:08:44 PM Lab3.Controller Process
+INFO: Запуск программы
+нояб. 11, 2021 4:08:53 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 11, 2021 4:11:07 PM Lab3.Controller Process
+INFO: Файл успешно загружен
+нояб. 11, 2021 4:11:54 PM Lab3.Controller Process
+INFO: Запуск программы
+нояб. 11, 2021 4:11:59 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 11, 2021 4:12:20 PM Lab3.Controller Process
+INFO: Запуск программы
+нояб. 11, 2021 4:12:28 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 11, 2021 4:13:22 PM Lab3.Controller Process
+INFO: Запуск программы
+нояб. 11, 2021 4:13:25 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 11, 2021 4:17:07 PM Lab3.Controller Process
+INFO: Запуск программы
+нояб. 11, 2021 4:17:12 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 11, 2021 4:20:29 PM Lab3.Controller Process
+INFO: Запуск программы
+нояб. 11, 2021 4:20:46 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 11, 2021 4:21:32 PM Lab3.Controller Process
+INFO: Запуск программы
+нояб. 11, 2021 4:21:36 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 11, 2021 4:22:04 PM Lab3.Controller Process
+INFO: Запуск программы
+нояб. 11, 2021 4:22:08 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 11, 2021 4:22:36 PM Lab3.Controller Process
+INFO: Запуск программы
+нояб. 11, 2021 4:22:40 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 11, 2021 4:22:41 PM Lab3.Controller Process
+INFO: Файл успешно загружен
+нояб. 11, 2021 4:23:02 PM Lab3.Controller Process
+INFO: В базу был добавлен новый элемент
+нояб. 11, 2021 4:23:39 PM Lab3.Controller Process
+INFO: В базу был добавлен новый элемент
+нояб. 11, 2021 4:24:03 PM Lab3.Controller Process
+INFO: В базу был добавлен новый элемент
+нояб. 11, 2021 4:24:13 PM Lab3.Controller Process
+INFO: Файл успешно сохранен
+нояб. 11, 2021 4:25:08 PM Lab3.Controller Process
+INFO: Запуск программы
+нояб. 11, 2021 4:25:12 PM Lab3.Controller Enter
+WARNING: Попытка входа в аккаунт user
+нояб. 11, 2021 4:25:18 PM Lab3.Controller Enter
+WARNING: Попытка входа в аккаунт user
+нояб. 11, 2021 4:25:26 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 11, 2021 4:25:30 PM Lab3.Controller Process
+INFO: Файл успешно загружен
+нояб. 11, 2021 4:26:12 PM Lab3.Controller Process
+INFO: В базу был добавлен новый элемент
+нояб. 11, 2021 4:26:32 PM Lab3.Controller Process
+INFO: Из базы был удален элемент
+нояб. 11, 2021 4:26:38 PM Lab3.Controller Process
+INFO: Файл успешно сохранен
+нояб. 23, 2021 4:54:23 PM Lab3.Controller Process
+INFO: Запуск программы
+нояб. 23, 2021 4:54:26 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 23, 2021 4:56:10 PM Lab3.Controller Process
+INFO: Запуск программы
+нояб. 23, 2021 4:56:15 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 23, 2021 4:56:15 PM Lab3.Controller Process
+INFO: Файл успешно загружен
+нояб. 23, 2021 4:58:28 PM Lab3.Controller Process
+INFO: Запуск программы
+нояб. 23, 2021 4:58:33 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 23, 2021 4:58:35 PM Lab3.Controller Process
+INFO: Файл успешно загружен
+нояб. 23, 2021 5:01:33 PM Lab3.Controller Process
+INFO: Запуск программы
+нояб. 23, 2021 5:01:38 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 23, 2021 5:01:39 PM Lab3.Controller Process
+INFO: Файл успешно загружен
+нояб. 23, 2021 5:01:51 PM Lab3.Controller Process
+INFO: Запуск программы
+нояб. 23, 2021 5:01:55 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 23, 2021 5:01:58 PM Lab3.Controller Process
+INFO: Файл успешно загружен
+нояб. 23, 2021 5:02:10 PM Lab3.Controller Process
+INFO: Запуск программы
+нояб. 23, 2021 5:02:14 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 23, 2021 5:02:37 PM Lab3.Controller Process
+INFO: Файл успешно загружен
+нояб. 23, 2021 5:06:42 PM Lab3.Controller Process
+INFO: Запуск программы
+нояб. 23, 2021 5:06:46 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 23, 2021 5:06:47 PM Lab3.Controller Process
+INFO: Файл успешно загружен
+нояб. 23, 2021 5:07:26 PM Lab3.Controller Process
+INFO: Запуск программы
+нояб. 23, 2021 5:07:29 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 23, 2021 5:07:30 PM Lab3.Controller Process
+WARNING: Возникли ошибки при чтении файла
+нояб. 23, 2021 5:07:56 PM Lab3.Controller Process
+INFO: В базу был добавлен новый элемент
+нояб. 23, 2021 5:08:05 PM Lab3.Controller Process
+INFO: Файл успешно сохранен
+нояб. 23, 2021 5:08:24 PM Lab3.Controller Process
+INFO: Запуск программы
+нояб. 23, 2021 5:08:30 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 23, 2021 5:08:31 PM Lab3.Controller Process
+INFO: Файл успешно загружен
+нояб. 23, 2021 6:51:19 PM Lab3.Controller Process
+INFO: Запуск программы
+нояб. 23, 2021 6:51:24 PM Lab3.Controller Process
+INFO: Выполнен вход в аккаунт user
+нояб. 23, 2021 6:51:29 PM Lab3.Controller Process
+INFO: Файл успешно загружен
+нояб. 23, 2021 6:51:54 PM Lab3.Controller Process
+INFO: В базу был добавлен новый элемент
+нояб. 23, 2021 6:52:00 PM Lab3.Controller Process
+INFO: Из базы был удален элемент
+нояб. 23, 2021 6:52:11 PM Lab3.Controller Process
+INFO: Файл успешно сохранен
